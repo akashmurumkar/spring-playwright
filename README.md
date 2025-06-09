@@ -1,6 +1,6 @@
-### spring-playwright
+# spring-playwright
 
 ## Content
 
-# About this project
+### About this project
 Playwright wrapper for Spring Boot
