@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Playwright Spring Boot">
+    <test name="Playwright Spring Boot Tests">
+        <classes>
+            <class name="com.autoramming.spring.playwright.SpringPlaywrightApplicationNGTests"/>
+        </classes>
+    </test>
+</suite>

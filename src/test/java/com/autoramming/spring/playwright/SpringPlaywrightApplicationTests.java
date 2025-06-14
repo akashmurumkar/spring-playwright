@@ -1,6 +1,5 @@
-package playwright;
+package com.autoramming.spring.playwright;
 
-import com.akasham.spring.playwright.SpringPlaywrightApplication;
 import com.microsoft.playwright.Browser;
 import com.microsoft.playwright.BrowserType;
 import com.microsoft.playwright.Page;
@@ -8,7 +7,7 @@ import com.microsoft.playwright.Playwright;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest(classes = SpringPlaywrightApplication.class)
+@SpringBootTest
 class SpringPlaywrightApplicationTests {
 
     @Test

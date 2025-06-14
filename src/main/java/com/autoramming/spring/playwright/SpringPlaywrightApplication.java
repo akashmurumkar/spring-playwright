@@ -1,4 +1,4 @@
-package com.akasham.spring.playwright;
+package com.autoramming.spring.playwright;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
